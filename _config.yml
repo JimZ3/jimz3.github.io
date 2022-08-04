@@ -5,11 +5,11 @@ url: "https://jimz3.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/E1.png                         # Empty for no avatar in navbar
+favicon: assets/Apple 2 2.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: This is a title, <code>this is a code</code>  # Change Blog header text
+header_text: This is a title, <code>code</code>  # Change Blog header text
 header_feature_image: assets/img/header/car.jpg
 header_feature_image_responsive: true
 footer_text: >
