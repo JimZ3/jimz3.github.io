@@ -4,4 +4,4 @@ title: Schedule
 author: Jim Zhang
 ---
 
-![Schedule](Schedule.png)
+![Schedule](/assets/img/feature-img/schedule.png)
