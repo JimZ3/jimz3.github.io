@@ -9,7 +9,7 @@ avatar: assets/img/E1.png                         # Empty for no avatar in navba
 favicon: assets/Apple 2 2.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: If it doesn't challenge you, it doesn't change you, <code>code</code>  # Change Blog header text
+header_text: If it doesn't challenge you, it doesn't change you , <code>code</code>  # Change Blog header text
 header_feature_image: assets/img/header/car.jpg
 header_feature_image_responsive: true
 footer_text: >
